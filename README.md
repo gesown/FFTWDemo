@@ -1,4 +1,4 @@
-# FFTWDemo
+# c# FFTWDemo
 Creates Complex Array Files from Text File Included as Command Line Parameter
 
 Incorporates FFTW class commented as sourced from Henning Pohl's DanceStixUtil. Obtain libfftw3-3.dll from http://fftw.org/install/windows.html.
