@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FFTW.NET" Version="1.0.1" />
+    <PackageReference Include="libfftw" Version="3.3.4" />
+    <PackageReference Include="libfftw.redist" Version="3.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interface\" />
+    <Folder Include="Model\" />
+  </ItemGroup>
+
+</Project>

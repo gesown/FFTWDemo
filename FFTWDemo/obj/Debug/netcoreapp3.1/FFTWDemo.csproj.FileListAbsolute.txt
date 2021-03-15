@@ -1,0 +1,17 @@
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\libfftw3-3-x64.dll
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\libfftw3-3-x86.dll
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.exe
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.deps.json
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.runtimeconfig.json
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.runtimeconfig.dev.json
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.dll
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTWDemo.pdb
+C:\src\FFTWDemo\FFTWDemo\bin\Debug\netcoreapp3.1\FFTW.NET.dll
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.csprojAssemblyReference.cache
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.AssemblyInfoInputs.cache
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.AssemblyInfo.cs
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.csproj.CoreCompileInputs.cache
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.csproj.CopyComplete
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.dll
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.pdb
+C:\src\FFTWDemo\FFTWDemo\obj\Debug\netcoreapp3.1\FFTWDemo.genruntimeconfig.cache

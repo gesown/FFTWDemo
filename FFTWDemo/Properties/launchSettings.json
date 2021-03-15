@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FFTWDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "sum1ms.txt"
+    }
+  }
+}
